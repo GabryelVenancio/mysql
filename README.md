@@ -1,1 +1,0 @@
-# Gabryel mysql
